@@ -1,0 +1,6 @@
+{
+  "require": {
+    "ramsey/uuid": "^3.8",
+    "phpmailer/phpmailer": "^6.0"
+  }
+}

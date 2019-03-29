@@ -1,0 +1,54 @@
+[29-Mar-2019 19:50:34 America/Sao_Paulo] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, no such table: cursos in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/cursos.php on line 10
+[29-Mar-2019 19:50:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function fetchArray() on boolean in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/cursos.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/cursos.php on line 80
+[29-Mar-2019 19:53:31 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:53:39 America/Sao_Paulo] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 19:53:39 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php') in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 19:55:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'UsuarioModel' not found in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php on line 13
+[29-Mar-2019 19:56:27 America/Sao_Paulo] PHP Fatal error:  Class 'Model' not found in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/UsuarioModel.php on line 3
+[29-Mar-2019 19:56:28 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:30 America/Sao_Paulo] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 19:56:30 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php') in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 19:56:33 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:34 America/Sao_Paulo] PHP Fatal error:  Class 'Model' not found in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/UsuarioModel.php on line 3
+[29-Mar-2019 19:56:38 America/Sao_Paulo] PHP Fatal error:  Class 'Model' not found in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/UsuarioModel.php on line 3
+[29-Mar-2019 19:56:39 America/Sao_Paulo] PHP Fatal error:  Class 'Model' not found in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/UsuarioModel.php on line 3
+[29-Mar-2019 19:56:40 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:41 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:42 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:42 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:42 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:56:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:57:01 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 19:57:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type UsuarioModel as array in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php on line 15
+[29-Mar-2019 19:59:49 America/Sao_Paulo] PHP Notice:  Undefined variable: salt in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/UsuarioModel.php on line 16
+[29-Mar-2019 20:01:20 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 20:01:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 20:01:46 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/curso.php on line 23
+[29-Mar-2019 20:06:24 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php on line 18
+[29-Mar-2019 20:06:26 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php on line 18
+[29-Mar-2019 20:06:27 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php on line 18
+[29-Mar-2019 20:06:27 America/Sao_Paulo] PHP Notice:  Array to string conversion in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/login.php on line 18
+[29-Mar-2019 20:06:45 America/Sao_Paulo] PHP Warning:  Illegal string offset 'nome' in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/index.php on line 24
+[29-Mar-2019 20:07:07 America/Sao_Paulo] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13) in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/index.php on line 2
+[29-Mar-2019 20:07:07 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/index.php:2) in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/index.php on line 2
+[29-Mar-2019 20:13:56 America/Sao_Paulo] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:13:56 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php') in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:14:07 America/Sao_Paulo] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:14:07 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php') in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:14:13 America/Sao_Paulo] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:14:13 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php') in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:14:17 America/Sao_Paulo] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:14:17 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/share/php') in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 2
+[29-Mar-2019 20:22:17 America/Sao_Paulo] PHP Notice:  Undefined index: COBAIA_MAIL_PASSWORD in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 65
+[29-Mar-2019 20:22:20 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php:65) in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/registro.php on line 80
+[29-Mar-2019 20:26:25 America/Sao_Paulo] PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php/sessions) failed: Permission denied (13) in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/ativar.php on line 5
+[29-Mar-2019 20:26:25 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/ativar.php:5) in /home/aluno/Área de Trabalho/cobaia/cobaia-webapp-php-new-one/src/ativar.php on line 5
